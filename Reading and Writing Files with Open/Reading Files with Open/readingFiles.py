@@ -1,8 +1,12 @@
+
 # read(): This method reads the entire file as a string
 
 with open('example.txt','r') as file:
     file_stuff1=file.read()
     print(file_stuff1)
+
+    print('File Name : ',file.name)
+    print('File Mode : ',file.mode)
 
 
 print('================================================')
