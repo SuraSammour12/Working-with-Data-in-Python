@@ -1,0 +1,3 @@
+Hey
+Read files in Python using the open() function
+It's always a good idea to revisit the basics from time to time
