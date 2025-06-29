@@ -24,3 +24,5 @@ B = np.array([[5,6],[7,8]])
 result = np.dot(A,B)
 print(result)
 
+# Get the transposed 
+print(B.T)
